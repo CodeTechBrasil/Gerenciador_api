@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fdb99fa9-4807-4022-a2d5-d98e2a98da25": {
+      "ProjectGuid": "fdb99fa9-4807-4022-a2d5-d98e2a98da25",
+      "DisplayName": "GerenciadorProjetos",
+      "ColorIndex": 0
+    },
+    "4090ef05-489f-4681-aa8e-934921f83945": {
+      "ProjectGuid": "4090ef05-489f-4681-aa8e-934921f83945",
+      "DisplayName": "Models",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
