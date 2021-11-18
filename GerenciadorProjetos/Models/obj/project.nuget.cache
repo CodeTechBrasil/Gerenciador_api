@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OFRhQrZxZ1x4brCVNR2Z5oCEF3/Wq0a6coYSkbIixrcgMGkr6bbN8nOCFkUDyyDRBhVDskw2SZM3li/kDxt15Q==",
+  "dgSpecHash": "y2JUzMwxeQ1yK91n5EswHvWcTTRhT/cBBrxVgekrH8sHea5j45yC3tTEF5LIbYsiaf7/Itlj3OvvkxU8vDVW7A==",
   "success": true,
   "projectFilePath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_API\\Gerenciador_api\\GerenciadorProjetos\\Models\\Business.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
