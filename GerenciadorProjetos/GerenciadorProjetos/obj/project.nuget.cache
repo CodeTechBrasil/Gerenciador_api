@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Nndy0jJBNR9fTVr6a6x/qA4oQKRcnxEDYgs3y1E/iqkTo7MewELwE9YzGfVqPH2KoxCQh0h3wWyZjcvEIUqm1g==",
+  "dgSpecHash": "0dqAEyl5Ud6l+KwSqXjJdymXc9CtVYQGS05Dhs3ijoWVoCoQwHNIhsP9KdWXNK+objIJJL6VIVU9qqjjxNPhKw==",
   "success": true,
-  "projectFilePath": "E:\\DESENVOLVIMENTO\\CODIGO FONTE - BRENO MORAIS\\API\\Gerenciador_api\\GerenciadorProjetos\\GerenciadorProjetos\\GerenciadorProjetos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_API\\Gerenciador_api\\GerenciadorProjetos\\GerenciadorProjetos\\GerenciadorProjetos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
