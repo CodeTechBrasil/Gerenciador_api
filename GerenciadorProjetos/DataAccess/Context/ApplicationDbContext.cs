@@ -9,10 +9,10 @@ using System.Threading.Tasks;
 
 namespace DataAccess.context
 {
-    public class ApplicationContext : DbContext
+    public class ApplicationDbContext : DbContext
     {
 
-        public ApplicationContext(DbContextOptions<ApplicationContext> databaseContext):base(databaseContext)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> databaseContext):base(databaseContext)
         {
 
         }

@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace Business.Models
 {
-    public  class SubTarefa
+    public  class SubTarefa: EntityBase
     {
-        public int Id { get; set; }
         public Tarefa Tarefa { get; set; }
-        public string NomeSubTarefa { get; set; }
-        public bool IsCheck { get; set; } = false;
+        public string Nome { get; set; }
+        public bool IsChecado { get; set; } = false;
     }
 }

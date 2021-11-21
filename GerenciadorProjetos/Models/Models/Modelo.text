@@ -12,25 +12,25 @@
 MODELOS DE ABSTRAÇÕES  : - ) !!"
 
 #Time
-|_id
+|_Id
 |_NomeTime
 
 #Pessoa
-|_id
+|_Id
 |_nome
 |_funcao
 |_Time
 |_timeId
 
 #Usuário
-|_id
+|_Id
 |_email
 |_senha
 |_<pessoa>
 |_pessoaId
 
 #Projeto
-|_id
+|_Id
 |_NomeProjeto
 |_Descricao
 |_<Time>
@@ -39,26 +39,26 @@ MODELOS DE ABSTRAÇÕES  : - ) !!"
 |_DataFim
 
 #Etiqueta
-|_id
+|_Id
 |_isNome
 |_NomeEtiqueta
 |_CorEtiqueta
 
 #Quadro (cards)
-|_id
+|_Id
 |_TituloQuadro
 |_<Etiqueta>
 |_EtiquetaId
 
 #Tarefa (tasks)
-|_id
+|_Id
 |_TituloTarefa
 |_Descricao
 |_<Quadro>
 |_QuadroId
 
 #Subtarefas
-|_id
+|_Id
 |_<Tarefa>
 |_NomeSubTarefa
 |_isCheck

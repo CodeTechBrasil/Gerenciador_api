@@ -17,6 +17,8 @@ namespace GerenciadorProjetos.Controllers
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
+       
+
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {

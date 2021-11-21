@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace Business.Models
 {
-    public class Etiqueta
+    public class Etiqueta: EntityBase
     {
-        public int Id { get; set; }
-        public bool isNome { get; set; } = false;
-        public string nome { get; set; }
+        public bool IsNome { get; set; } = false;
+        public string Nome { get; set; }
         public string CorEtiqueta { get; set; }
 
     }
