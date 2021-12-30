@@ -14,7 +14,6 @@ namespace DataAccess.context
 
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> databaseContext):base(databaseContext)
         {
-
         }
         public DbSet<Etiqueta> Etiquetas { get; set; }
         public DbSet<Pessoa> Pessoas { get; set; }

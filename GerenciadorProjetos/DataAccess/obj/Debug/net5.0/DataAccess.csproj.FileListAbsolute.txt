@@ -13,3 +13,6 @@ D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\DataAc
 D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
 D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\DataAccess\obj\Debug\net5.0\DataAccess.pdb
 D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\DataAccess\bin\Debug\net5.0\Business.dll
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\DataAccess\bin\Debug\net5.0\Business.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete

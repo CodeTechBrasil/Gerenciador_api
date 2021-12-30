@@ -10,3 +10,6 @@ D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\Models
 D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\Models\obj\Debug\net5.0\Business.dll
 D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\Models\obj\Debug\net5.0\ref\Business.dll
 D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\Models\obj\Debug\net5.0\Business.pdb
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\Models\bin\Debug\net5.0\Business.runtimeconfig.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\Models\bin\Debug\net5.0\Business.runtimeconfig.dev.json
+D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\Models\obj\Debug\net5.0\Business.genruntimeconfig.cache

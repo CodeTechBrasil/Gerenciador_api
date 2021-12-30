@@ -1,4 +1,5 @@
 ﻿using Business.Interfaces.IRepository;
+using Business.Interfaces.IServices;
 using Models.Models;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Business.Services
 {
-    public class TimeService
+    public class TimeService : ITimeService
     {
         private readonly ITimeRepository _repo;
 

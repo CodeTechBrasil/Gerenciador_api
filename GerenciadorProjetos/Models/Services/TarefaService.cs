@@ -1,4 +1,5 @@
 ﻿using Business.Interfaces.IRepository;
+using Business.Interfaces.IServices;
 using Business.Models;
 using System;
 using System.Collections.Generic;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Business.Services
 {
-    public class TarefaService
+    public class TarefaService : ITarefaService
     {
         private readonly ITarefaRepository _repo;
 
