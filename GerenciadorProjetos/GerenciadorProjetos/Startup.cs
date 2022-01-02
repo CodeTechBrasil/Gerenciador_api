@@ -40,9 +40,7 @@ namespace GerenciadorProjetos
 
             services.AddControllers();
 
-          
-
-
+    
             services.AddScoped<IProjetoRepository, ProjetoRepository>();
             services.AddScoped<IProjetoService, ProjetoService>();
 
@@ -75,10 +73,8 @@ namespace GerenciadorProjetos
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+              
             }
-
-   
-            
 
             app.UseHttpsRedirection();
 
