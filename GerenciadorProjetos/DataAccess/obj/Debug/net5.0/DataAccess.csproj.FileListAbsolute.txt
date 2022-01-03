@@ -16,3 +16,21 @@ D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\DataAc
 D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\DataAccess\bin\Debug\net5.0\Business.dll
 D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\DataAccess\bin\Debug\net5.0\Business.pdb
 D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\DataAccess\bin\Debug\net5.0\DataAccess.dll
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\DataAccess\bin\Debug\net5.0\Business.dll
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\DataAccess\bin\Debug\net5.0\Business.pdb
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\DataAccess\obj\Debug\net5.0\DataAccess.dll
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache

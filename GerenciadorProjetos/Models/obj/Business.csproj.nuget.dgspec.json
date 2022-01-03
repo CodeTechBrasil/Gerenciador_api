@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_API\\Gerenciador_api\\GerenciadorProjetos\\Models\\Business.csproj": {}
+    "E:\\DESENVOLVIMENTO\\CODIGO FONTE - BRENO MORAIS\\API\\Gerenciador_api\\GerenciadorProjetos\\Models\\Business.csproj": {}
   },
   "projects": {
-    "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_API\\Gerenciador_api\\GerenciadorProjetos\\Models\\Business.csproj": {
+    "E:\\DESENVOLVIMENTO\\CODIGO FONTE - BRENO MORAIS\\API\\Gerenciador_api\\GerenciadorProjetos\\Models\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_API\\Gerenciador_api\\GerenciadorProjetos\\Models\\Business.csproj",
+        "projectUniqueName": "E:\\DESENVOLVIMENTO\\CODIGO FONTE - BRENO MORAIS\\API\\Gerenciador_api\\GerenciadorProjetos\\Models\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_API\\Gerenciador_api\\GerenciadorProjetos\\Models\\Business.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\_DESENVOLVIMENTO\\CODIGO FONTE\\_API\\Gerenciador_api\\GerenciadorProjetos\\Models\\obj\\",
+        "projectPath": "E:\\DESENVOLVIMENTO\\CODIGO FONTE - BRENO MORAIS\\API\\Gerenciador_api\\GerenciadorProjetos\\Models\\Business.csproj",
+        "packagesPath": "C:\\Users\\wcogeo\\.nuget\\packages\\",
+        "outputPath": "E:\\DESENVOLVIMENTO\\CODIGO FONTE - BRENO MORAIS\\API\\Gerenciador_api\\GerenciadorProjetos\\Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\wcogeo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -66,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

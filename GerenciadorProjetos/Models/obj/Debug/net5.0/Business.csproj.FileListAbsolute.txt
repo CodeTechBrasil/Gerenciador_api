@@ -13,3 +13,18 @@ D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\Models
 D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\Models\bin\Debug\net5.0\Business.runtimeconfig.json
 D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\Models\bin\Debug\net5.0\Business.runtimeconfig.dev.json
 D:\_DESENVOLVIMENTO\CODIGO FONTE\_API\Gerenciador_api\GerenciadorProjetos\Models\obj\Debug\net5.0\Business.genruntimeconfig.cache
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\Models\bin\Debug\net5.0\Business.deps.json
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\Models\bin\Debug\net5.0\Business.runtimeconfig.json
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\Models\bin\Debug\net5.0\Business.runtimeconfig.dev.json
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\Models\bin\Debug\net5.0\Business.dll
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\Models\bin\Debug\net5.0\ref\Business.dll
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\Models\bin\Debug\net5.0\Business.pdb
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\Models\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\Models\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\Models\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\Models\obj\Debug\net5.0\Business.AssemblyInfo.cs
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\Models\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\Models\obj\Debug\net5.0\Business.dll
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\Models\obj\Debug\net5.0\ref\Business.dll
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\Models\obj\Debug\net5.0\Business.pdb
+E:\DESENVOLVIMENTO\CODIGO FONTE - BRENO MORAIS\API\Gerenciador_api\GerenciadorProjetos\Models\obj\Debug\net5.0\Business.genruntimeconfig.cache

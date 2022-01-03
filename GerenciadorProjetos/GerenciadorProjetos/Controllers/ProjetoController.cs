@@ -65,17 +65,6 @@ namespace Application.Controllers
 
         }
 
-        [HttpPatch("AtualizarCamposProjeto")]
-        public async Task<IActionResult> AtualizarCamposProjeto([FromBody] Projeto objProjeto)
-        {
-            if (!ModelState.IsValid) return BadRequest(new { message = "Favor verificar as informações" });
-
-            await _repo.AtualizarAsync(objProjeto);
-            await _repo.SalvarAsync();
-
-            return Ok("Atualizado com sucesso");
-
-        }
 
         [HttpDelete("id:int")]
         public async Task ExcluirProjeto(int id)
